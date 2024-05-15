@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29166 132.29167"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="logo furir vef2 web.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3843855"
+     inkscape:cx="154.94239"
+     inkscape:cy="274.85118"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="60.67674"
+       y="13.002159"
+       width="431.23826"
+       height="1256.153"
+       id="rect3" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="color:#000000;fill:#000000;stroke-width:0.960349;-inkscape-stroke:none"
+       d="m 66.222943,0.35231664 c -36.266353,0 -65.87234576,29.48807236 -65.87234576,65.87022436 0,36.382139 29.60599276,65.872119 65.87234576,65.872119 36.266347,0 65.872347,-29.48998 65.872347,-65.872119 0,-36.382152 -29.606,-65.87022436 -65.872347,-65.87022436 z m 0,9.70435836 c 31.244669,0 56.368667,25.147891 56.368667,56.165866 0,31.017977 -25.123998,56.167769 -56.368667,56.167769 -31.244668,0 -56.3686711,-25.149792 -56.3686711,-56.167769 0,-31.017975 25.1240031,-56.165866 56.3686711,-56.165866 z"
+       id="path1" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:2.35;fill:none;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       x="44.530888"
+       y="55.042473"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="line-height:2.35;stroke-width:10"
+         x="44.530888"
+         y="55.042473" /></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,20.832046,-36.503861)"
+       id="text3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:2.05;font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect3);display:inline;fill:none;stroke:#000000;stroke-width:37.7953;stroke-dasharray:none"><tspan
+         x="60.675781"
+         y="537.93407"
+         id="tspan4"><tspan
+           style="font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'"
+           id="tspan1">P</tspan></tspan></text>
+  </g>
+</svg>

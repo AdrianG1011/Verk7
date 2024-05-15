@@ -1,0 +1,77 @@
+.Ep{
+    position: relative;
+    width: 350px;
+    height: 200px;
+    z-index: 1;
+}
+#EPIC1{
+    top: 71px;
+    left: 741.4px;
+}
+#EPIC3{
+    top: 571px;
+    left: 387px;
+}
+
+
+
+.Ebox{
+    position: absolute;
+    width: 700px;
+    height: 400px;
+    background-color: rgba(255, 255, 255, 0);
+    outline: auto;
+}
+
+#Ebox1 {
+    position: absolute;
+    top: 150px;
+    left: 566.25px;
+}
+#Ebox2 {
+    position: absolute;
+    top: 650px;
+    left: 566.25px;
+}
+
+#Dinner {
+    text-align: center;
+    margin-top: 70px;
+}
+
+#Uncover {
+    text-align: center;
+    margin-top: 450px;
+}
+
+.time {
+    position: relative;
+    left: 615px;
+    top: -300px;
+}
+
+#time2 {
+    top: -300px;
+}
+
+#time1 {
+    top: -230px;
+}
+
+.day {
+    position: relative;
+    left: 615px;
+    top: -300px;
+}
+
+#day1 {
+    top: -230px;
+}
+
+#day2 {
+    top: -300px;
+}
+
+#expl2{
+    margin-top: 0;
+}

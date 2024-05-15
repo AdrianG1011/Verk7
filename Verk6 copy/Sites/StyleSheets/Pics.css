@@ -1,0 +1,46 @@
+#MiniPic1{
+    position: relative;
+    top: 500px;
+    left: 100px;
+}
+#MiniPic2{
+    position: relative;
+    top: 1000px;
+    left: 850px;
+}
+#MiniPic3{
+    position: relative;
+    top: 1500px;
+    right: 776px;
+}
+
+.box{
+    background-color: darkred;
+}
+
+#box1{
+    position: absolute;
+    top: 930px;
+    width: 551px;
+    height: 2000px;
+}
+#box2{
+    position: absolute;
+    top: 930px;
+    width: 516px;
+    height: 2000px;
+    right: 13px;
+}
+#box3{
+    position: absolute;
+    top: 930px;
+    width: 551px;
+    height: 2000px;
+}
+#box4{
+    position: absolute;
+    top: 930px;
+    width: 516px;
+    height: 2000px;
+    right: 13px;
+}

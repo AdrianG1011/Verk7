@@ -1,0 +1,21 @@
+h3 {
+    text-align: center;
+    font-size: 300%;
+}
+
+.box{
+    background-color: darkred;
+}
+
+#box5{
+    position: absolute;
+    top: 85px;
+    width: 1830px;
+    height: 300px;
+}
+#box6{
+    position: absolute;
+    top: 510px;
+    width: 1830px;
+    height: 300px;
+}

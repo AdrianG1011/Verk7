@@ -1,0 +1,18 @@
+.Animation1{
+    width:80px;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: 1; /* Run animation only once */
+    animation-fill-mode: forwards; /* Apply the styles of the last keyframe after the animation ends */
+  }
+  
+  @keyframes example {
+    0%   { left: 2000px; top: 85px; }
+    25%  { left:1500px; top: 85px; }
+    50%  { left:1500px; top: 0px; }
+    100%  { left:1090px; top: 0px; }
+  }
+  

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29166 132.29167"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="logo fyrir vef2 web2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3843855"
+     inkscape:cx="76.929438"
+     inkscape:cy="256.07029"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="60.67674"
+       y="13.002159"
+       width="431.23826"
+       height="1256.153"
+       id="rect3" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="color:#000000;fill:#000000;stroke-width:0.960349;-inkscape-stroke:none"
+       d="m 66.222943,0.35231664 c -36.266353,0 -65.87234576,29.48807236 -65.87234576,65.87022436 0,36.382139 29.60599276,65.872119 65.87234576,65.872119 36.266347,0 65.872347,-29.48998 65.872347,-65.872119 0,-36.382152 -29.606,-65.87022436 -65.872347,-65.87022436 z m 0,9.70435836 c 31.244669,0 56.368667,25.147891 56.368667,56.165866 0,31.017977 -25.123998,56.167769 -56.368667,56.167769 -31.244668,0 -56.3686711,-25.149792 -56.3686711,-56.167769 0,-31.017975 25.1240031,-56.165866 56.3686711,-56.165866 z"
+       id="path1" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:2.35;fill:none;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       x="44.530888"
+       y="55.042473"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="line-height:2.35;stroke-width:10"
+         x="44.530888"
+         y="55.042473" /></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-dasharray:none"
+       id="rect4"
+       width="21.787645"
+       height="78.167953"
+       x="213.28958"
+       y="26.947876"
+       ry="10.893823" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:7.15207;stroke-dasharray:none"
+       id="rect5"
+       width="16.990797"
+       height="51.272892"
+       x="81.808662"
+       y="-204.2975"
+       ry="7.1456103"
+       transform="rotate(90)" />
+    <path
+       style="color:#000000;-inkscape-font-specification:'Leelawadee UI';fill:#000000;-inkscape-stroke:none"
+       d="m 44.277344,22.955078 v 84.103512 h 48.447265 v -5 -12.855465 H 62.958984 V 22.955078 Z"
+       id="text5" />
+  </g>
+</svg>
